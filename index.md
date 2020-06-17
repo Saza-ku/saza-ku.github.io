@@ -26,6 +26,7 @@
 - エレキギター
 - DTM(始めたばっかり)
 - YouTube, ニコニコ動画(ゲーム実況者のシンさんを応援しています)
+  
 <script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm26216323/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm26216323">【実況】スプラトゥーン試射会でたわむれる part1</a></noscript>
 
 ## Contact
