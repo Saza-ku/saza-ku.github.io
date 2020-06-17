@@ -1,4 +1,4 @@
-![推しの谷藤海咲さんです](https://github.com/Saza-ku/saza-ku.github.io/blob/master/D_bqvvXUEAARMWZ.jpeg)
+![推しの谷藤海咲さんです](D_bqvvXUEAARMWZ.jpeg)
 (推しの谷藤海咲さんです)
 
 # About
