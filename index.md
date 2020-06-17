@@ -1,3 +1,5 @@
+![推しの谷藤海咲さんです](https://github.com/Saza-ku/saza-ku.github.io/blob/master/D_bqvvXUEAARMWZ.jpeg)
+
 # About
 
 京大生です。工学部情報学科2回生。計算機科学コース。  
