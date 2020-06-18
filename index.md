@@ -8,14 +8,14 @@
 文化的な生活がしたい。
 
 ## Profile
-- Saza
-- Kyoto
-- AtCoder(緑)(id:Saza)
-- 何もできません。
+- 名前: Saza, ☆そうちゃん☆
+- 場所: 滋賀⇆京都
+- AtCoder: [Saza](https://atcoder.jp/users/Saza)(緑)
+- 特技: 何もできません。
 
 ## Skills
 - Mac, Ubuntu
-- JavaScript, C++, Java
+- JavaScript, Node.js, C++, Java
 
 ## Works
 - [GitHub](https://github.com/Saza-ku)
