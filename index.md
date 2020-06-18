@@ -21,6 +21,7 @@
 - [GitHub](https://github.com/Saza-ku)
 - [予定調整くん](https://secret-tor-45588.herokuapp.com/)(N予備校で作った）
 - [RainbowPerticleBrush](https://www.openprocessing.org/sketch/918514)(これもN予備校)
+- [ライオンのごきげんようLINEbot](https://lin.ee/7jfJKZh)
 
 <iframe src="https://www.openprocessing.org/sketch/918514/embed/" width="400" height="300"></iframe>
 
