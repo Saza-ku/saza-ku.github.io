@@ -18,9 +18,9 @@
 - [GitHub](https://github.com/Saza-ku)
 - [予定調整くん](https://secret-tor-45588.herokuapp.com/)  
 N予備校の「プログラミング入門コース」のカリキュラムで作ったものです。GitHubアカウントで認証できる予定調整アプリです。ExpressとPostgreSQLで作りました。
-- [ライオンのごきげんようLINEbot](https://lin.ee/7jfJKZh)
+- [ライオンのごきげんようLINEbot](https://lin.ee/7jfJKZh)  
 「ライオンのごきげんよう」と言うとトークテーマを投げてくれます。[この記事](https://qiita.com/TakuTaku04/items/cb71f10669a9e9cbf71b)を参考にさせていただきました。
-- [RainbowPerticleBrush](https://www.openprocessing.org/sketch/918514)(これもN予備校)
+- [RainbowPerticleBrush](https://www.openprocessing.org/sketch/918514)
 <iframe src="https://www.openprocessing.org/sketch/918514/embed/" width="400" height="300"></iframe>
 
 ## Hobby
