@@ -11,7 +11,7 @@
 ## Skills
 - 言語: C++, JavaScript, C++, Java, Python, C#, PostgreSQL
 - フレームワーク, ライブラリ: Node.js, Express, ASP.NET CORE
-- ツール: Git, Vagrant, VirtualBox
+- ツール: Git, Vagrant, VirtualBox, Heroku
 - OS: Mac, Linux
 
 ## Works
