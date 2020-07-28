@@ -9,7 +9,7 @@
 - AtCoder: [Saza](https://atcoder.jp/users/Saza)(緑)
 
 ## Skills
-- 言語: C++, JavaScript, C++, Java, Python, C#, PostgreSQL
+- 言語: C++, JavaScript, Java, Python, C#, PostgreSQL
 - フレームワーク, ライブラリ: Node.js, Express, ASP.NET CORE
 - ツール: Git, Vagrant, VirtualBox, Heroku
 - OS: Mac, Linux
