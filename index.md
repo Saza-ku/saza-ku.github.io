@@ -1,22 +1,23 @@
 # About
 京都大学工学部情報学科2回生。計算機科学コース。  
 プログラミング勉強中です。競プロもやっています。 
-最近はandroidアプリ開発とAS
-文化的な生活がしたい。
+最近はandroidアプリ開発とASP.NET COREに挑戦しています。
 
 ## Profile
-- 名前: Saza, ☆そうちゃん☆
+- 名前: 上田蒼一朗, ☆そうちゃん☆, Saza
 - 場所: 滋賀⇆京都
 - AtCoder: [Saza](https://atcoder.jp/users/Saza)(緑)
-- 特技: 何もできません。
 
 ## Skills
-- Mac, Ubuntu
-- JavaScript, Node.js, C++, Java
+-言語: C++, JavaScript, C++, Java, Python, C#
+-フレームワーク, ライブラリ: Node.js, Express, ASP.NET CORE
+-ツール: Git, Vagrant, VirtualBox
+-OS: Mac, Linux
 
 ## Works
 - [GitHub](https://github.com/Saza-ku)
-- [予定調整くん](https://secret-tor-45588.herokuapp.com/)(N予備校で作った）
+- [予定調整くん](https://secret-tor-45588.herokuapp.com/)  
+N予備校の「プログラミング入門コース」のカリキュラムで作ったものです。GitHubアカウントで認証できる予定調整アプリです。ExpressとPostgreSQLで作りました。
 - [ライオンのごきげんようLINEbot](https://lin.ee/7jfJKZh)
 - [RainbowPerticleBrush](https://www.openprocessing.org/sketch/918514)(これもN予備校)
 <iframe src="https://www.openprocessing.org/sketch/918514/embed/" width="400" height="300"></iframe>
@@ -25,9 +26,7 @@
 - 演劇([劇団ケッペキ](http://keppeki.lar.jp))
 - エレキギター
 - DTM(始めたばっかり)
-- YouTube, ニコニコ動画(ゲーム実況者のシンさんを応援しています)
-  
-<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm26216323/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm26216323">【実況】スプラトゥーン試射会でたわむれる part1</a></noscript>
+- YouTube, ニコニコ動画
 
 ## Contact
 - [Twitter](https://twitter.com/suku0710)
